@@ -38,7 +38,7 @@
   <!-- Add more icons similarly -->
 </p>
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-around; align-items: center">
   <p><img width='200px' src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanpow&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
   <p><img width='200px' src="https://github-readme-stats.vercel.app/api?username=bryanpow&show_icons=true&locale=en" alt="GitHub Stats" /></p>
   <p><img width='200px' src="https://github-readme-streak-stats.herokuapp.com/?user=bryanpow&" alt="GitHub Streak" /></p>
