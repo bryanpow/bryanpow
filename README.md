@@ -1,4 +1,4 @@
-# Im Bryan Ramos, a Full-Stack Software Engineer / Data Engineer
+#👋 Im Bryan Ramos, a Full-Stack Software Engineer / Data Engineer
 # 💫 About Me:
 🔭 I’m currently working on a full-stack referral application<br> 💼  I’m open to work in Full-Stack development, and Data Engineering roles<br>🌱 I’m currently learning Angular, React Native<br>
 
