@@ -1,7 +1,7 @@
 # 👋 I'm Bryan Ramos — DevOps & Platform Engineer | Full-Stack Developer
 
 ## 🚀 About Me
-🔧 I’m a DevOps / Platform Engineer focused on building scalable infrastructure and developer tooling.<br>
+🔧 I’m a DevOps / Platform Engineer focused on building scalable infrastructure and developer tooling I also have a strong background in computer science and full-stack engineering.<br>
 🌍 Currently working on automating deployments using GitOps (ArgoCD), Kubernetes, and CI/CD pipelines (GitHub Actions).<br>
 🛠️ Passionate about bridging the gap between development and operations.<br>
 🎯 Open to full-time roles in **Platform Engineering**, **DevOps**, or **Cloud Engineering**.<br>
