@@ -11,9 +11,9 @@
 
 - 🧩 **CI/CD Pipelines** – GitHub Actions, ArgoCD (App of Apps), GitOps workflows  
 - ☸️ **Kubernetes** – Helm charts, EKS, Namespaces, multi-env deployment strategies  
-- 🧱 **Infrastructure as Code** – Terraform, Crossplane, GitHub Environments  
+- 🧱 **Infrastructure as Code** – Terraform, Crossplane
 - 📦 **Containerization** – Docker, Amazon ECR, image lifecycle automation  
-- 📈 **Observability** – Datadog, logging/metrics for scalable systems  
+- 📈 **Observability** – Datadog, Prometheus/Graphana, logging/metrics for scalable systems  
 
 ---
 
