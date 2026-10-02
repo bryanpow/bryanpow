@@ -3,9 +3,6 @@
 🚀 About Me
 
 💻 I’m a Software Engineer focused on building scalable, reliable applications and systems, with experience across full-stack development and DevOps / platform engineering.<br>
-🧠 Strong foundation in computer science, backend development, APIs, databases, and modern web technologies.<br>
-⚙️ I also bring hands-on DevOps experience with Kubernetes, AWS, Terraform, ArgoCD, Docker, and CI/CD, allowing me to think beyond application code and understand how software is built, deployed, and operated in production.<br>
-🌱 Always learning more about software architecture, distributed systems, cloud infrastructure, and system design.<br>
 
 🛠️ Core Focus Areas
 
