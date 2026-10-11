@@ -10,6 +10,5 @@
 
 ---
 
-> ⚡ Let's connect! I'm always looking to grow, build, and ship better software.
 
 
